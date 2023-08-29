@@ -22,7 +22,7 @@ This is an application for simple card React.js
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://simplereact-card.netlify.app)
+- Live Site URL: [Live Site URL](https://simplereact-card.netlify.app)
 
 ## My process
 
